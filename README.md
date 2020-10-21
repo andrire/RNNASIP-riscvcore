@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/pulp-platform/riscv.svg?branch=master)](https://travis-ci.com/pulp-platform/riscv)
+This is a fork of https://github.com/pulp-platform/riscv/tree/rnn_extension (ad1680c2ec65ea65b8e342c16131298b290c9e34)
+
 
 # RI5CY: RISC-V Core
 
